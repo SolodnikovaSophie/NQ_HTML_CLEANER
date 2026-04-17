@@ -1,4 +1,3 @@
-````markdown
 # NQ HTML Cleaner
 
 ## Описание
